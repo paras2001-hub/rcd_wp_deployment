@@ -1,0 +1,52 @@
+services:
+  - name: database
+    type: private_service
+    env: docker
+    plan: free
+    startCommand: ""
+    dockerfilePath: ""
+    disk:
+      sizeGB: 2
+      mountPath: /var/lib/mysql
+    envVars:
+      - key: MYSQL_ROOT_PASSWORD
+        fromEnv: MYSQL_ROOT_PASSWORD
+      - key: MYSQL_DATABASE
+        fromEnv: MYSQL_DATABASE
+      - key: MYSQL_USER
+        fromEnv: MYSQL_USER
+      - key: MYSQL_PASSWORD
+        fromEnv: MYSQL_PASSWORD
+
+  - name: phpmyadmin
+    type: web_service
+    env: docker
+    plan: free
+    startCommand: ""
+    dockerfilePath: ""
+    envVars:
+      - key: PMA_HOST
+        value: database
+      - key: MYSQL_ROOT_PASSWORD
+        fromEnv: MYSQL_ROOT_PASSWORD
+    httpPort: 80
+
+  - name: wordpress
+    type: web_service
+    env: docker
+    plan: free
+    startCommand: ""
+    dockerfilePath: ""
+    envVars:
+      - key: WORDPRESS_DB_HOST
+        value: database:3306
+      - key: WORDPRESS_DB_NAME
+        fromEnv: MYSQL_DATABASE
+      - key: WORDPRESS_DB_USER
+        fromEnv: MYSQL_USER
+      - key: WORDPRESS_DB_PASSWORD
+        fromEnv: MYSQL_PASSWORD
+    httpPort: 80
+    disk:
+      sizeGB: 2
+      mountPath: /var/www/html
