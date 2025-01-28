@@ -1,6 +1,6 @@
 services:
   - name: database
-    type: private_service
+    type: web_service    
     env: docker
     plan: free
     startCommand: ""
