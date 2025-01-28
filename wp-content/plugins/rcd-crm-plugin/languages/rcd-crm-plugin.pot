@@ -1,0 +1,18 @@
+# rcd-crm-plugin.pot
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+
+#: admin/admin-settings.php:7
+msgid "Your section description"
+msgstr ""
+
+#: admin/admin-menu.php:5
+msgid "RCD CRM"
+msgstr ""
+
+#: admin/admin-menu.php:9
+msgid "Welcome to RCD CRM"
+msgstr ""

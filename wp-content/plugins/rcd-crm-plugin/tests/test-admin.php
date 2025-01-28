@@ -1,0 +1,2 @@
+<?php
+// Test admin functionality

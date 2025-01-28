@@ -1,0 +1,524 @@
+# Copyright (C) 2024 Creta Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vegetable Gardening 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/vegetable-gardening\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-02T14:33:21+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: vegetable-gardening\n"
+
+#. Theme Name of the theme
+#: style.css
+#: inc/block-patterns.php:11
+msgid "Vegetable Gardening"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.cretathemes.com/products/free-garden-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "The Vegetable Gardening WordPress Theme is a comprehensive solution designed for gardening enthusiasts and professionals alike. This theme is perfect for anyone looking to establish an engaging online presence centred around gardening, whether it be for home gardening, urban gardening, or organic gardening. It provides a visually appealing platform to showcase a variety of gardening-related content, including tips, tutorials, and projects that cater to both beginners and seasoned gardeners. With its clean, user-friendly design, this theme emphasises vibrant visuals that highlight the beauty of gardening. Users can easily share gardening ideas, gardening supplies, and landscape designs while integrating helpful gardening tips and maintenance guides. The responsive layout ensures that your website looks stunning on any device, inviting visitors to explore everything from herb gardening to container gardening. Key features include customizable layouts, easy navigation, and a selection of gardening widgets that allow you to display your gardening tools, gardening equipment, and seasonal gardening content seamlessly. Additionally, the theme supports gardening clubs and community engagement, making it ideal for sharing knowledge about composting, pest control, and sustainable gardening practices. Whether you’re documenting your own gardening journey or providing resources for others, the Vegetable Gardening WordPress Theme is designed to cultivate a thriving online gardening community."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Creta Themes"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://cretathemes.com/"
+msgstr ""
+
+#: inc/block-patterns.php:12
+msgid "Pages"
+msgstr ""
+
+#: inc/block-styles.php:17
+msgid "No Padding"
+msgstr ""
+
+#: inc/block-styles.php:26
+#: inc/block-styles.php:44
+#: inc/block-styles.php:53
+#: inc/block-styles.php:63
+#: inc/block-styles.php:73
+#: inc/block-styles.php:82
+msgid "Theme Style"
+msgstr ""
+
+#: inc/block-styles.php:35
+msgid "Plain"
+msgstr ""
+
+#: inc/icon-function.php:26
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/icon-function.php:31
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: patterns/404-header-with-background.php
+msgctxt "Pattern title"
+msgid "404 Header With Background"
+msgstr ""
+
+#: patterns/404-header-with-background.php:22
+msgid "Oops! That page cannot be found"
+msgstr ""
+
+#: patterns/archive-header-with-background.php
+msgctxt "Pattern title"
+msgid "Archive Header With Background"
+msgstr ""
+
+#: patterns/footer-columns.php
+msgctxt "Pattern title"
+msgid "Footer Columns"
+msgstr ""
+
+#: patterns/footer-columns.php:14
+msgid "Orci suscipit tempus morbi id tincidunt. Facilisi torquent metus vel parturient turpis rhoncus gravida aliquam fusce posuere litora."
+msgstr ""
+
+#: patterns/footer-columns.php:20
+msgid "Important Link"
+msgstr ""
+
+#: patterns/footer-columns.php:37
+msgid "Services"
+msgstr ""
+
+#: patterns/footer-columns.php:54
+msgid "Support"
+msgstr ""
+
+#: patterns/footer-columns.php:74
+msgid "Vegetable Gardening. All Rights Reserved."
+msgstr ""
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404 Content"
+msgstr ""
+
+#: patterns/hidden-404.php:8
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/hidden-404.php:10
+#: patterns/sidebar.php:10
+msgid "Search"
+msgstr ""
+
+#: patterns/hidden-404.php:10
+msgid "Search..."
+msgstr ""
+
+#: patterns/main-banner.php
+msgctxt "Pattern title"
+msgid "Header Media"
+msgstr ""
+
+#: patterns/main-banner.php:15
+msgid "Professional Landscaping Services"
+msgstr ""
+
+#: patterns/main-banner.php:19
+msgid "Helping You Improve"
+msgstr ""
+
+#: patterns/main-banner.php:19
+msgid "Your Garden Appearance"
+msgstr ""
+
+#: patterns/main-banner.php:23
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris."
+msgstr ""
+
+#: patterns/main-banner.php:28
+#: patterns/main-header.php:85
+msgid "Get In Touch"
+msgstr ""
+
+#: patterns/main-header.php
+msgctxt "Pattern title"
+msgid "Main Header"
+msgstr ""
+
+#: patterns/main-header.php:17
+msgid "1901 Thornridge Cir. Shiloh, Hawaii 81063"
+msgstr ""
+
+#: patterns/main-header.php:41
+msgid "Mon - Fri 10:00 to 9:00"
+msgstr ""
+
+#: patterns/post-header-with-background.php
+msgctxt "Pattern title"
+msgid "Post Header With Background"
+msgstr ""
+
+#: patterns/recent-blog.php
+msgctxt "Pattern title"
+msgid "Recent Blog"
+msgstr ""
+
+#: patterns/search-header.php
+msgctxt "Pattern title"
+msgid "Search header"
+msgstr ""
+
+#: patterns/service-section.php
+msgctxt "Pattern title"
+msgid "Service Section"
+msgstr ""
+
+#: patterns/service-section.php:14
+msgid "Our Services"
+msgstr ""
+
+#: patterns/service-section.php:18
+msgid "Why We Are The Best Company"
+msgstr ""
+
+#: patterns/service-section.php:30
+#: patterns/service-section.php:108
+msgid "Lawn Bed Maintenance"
+msgstr ""
+
+#: patterns/service-section.php:34
+#: patterns/service-section.php:52
+#: patterns/service-section.php:70
+#: patterns/service-section.php:94
+#: patterns/service-section.php:112
+#: patterns/service-section.php:130
+msgid "Lorem ipsum dolor sit that amet, consectetur adipiscing elit."
+msgstr ""
+
+#: patterns/service-section.php:48
+#: patterns/service-section.php:126
+msgid "Spring Maintenance"
+msgstr ""
+
+#: patterns/service-section.php:66
+#: patterns/service-section.php:90
+msgid "Dethatching"
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/sidebar.php:18
+msgid "About"
+msgstr ""
+
+#: patterns/sidebar.php:22
+msgid "Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown prmontserrat took a galley of type and scrambled it to make a type specimen book."
+msgstr ""
+
+#: patterns/sidebar.php:26
+msgid "Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown prmontserrat took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+msgstr ""
+
+#: patterns/sidebar.php:32
+msgid "Archive"
+msgstr ""
+
+#: patterns/sidebar.php:40
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:48
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/sidebar.php:56
+msgid "Tags"
+msgstr ""
+
+#: patterns/sidebar.php:64
+msgid "Social Icons"
+msgstr ""
+
+#: patterns/sidebar.php:82
+msgid "Gallery"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lobster"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Work Sans"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Upper Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Content Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Site Title"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Post Title"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Semi Huge"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge (Display)"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and background"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical foreground to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical background to foreground"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to foreground"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Custom Gradient"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color One"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color Two"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Navigation Hover"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Body Text"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary Text Color"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary Bg Color"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Border Color"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Footer Bg"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Main Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Columns"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Content"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Page Content"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post (Sidebar on Right)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post (No Sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Right)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (No Title / Feature Image)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Right Sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Left Sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (No Sidebar)"
+msgstr ""

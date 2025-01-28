@@ -1,0 +1,2 @@
+<?php
+// Test public functionality
